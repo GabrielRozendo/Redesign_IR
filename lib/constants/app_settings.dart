@@ -1,0 +1,3 @@
+class AppSettings {
+  AppSettings._();
+}
