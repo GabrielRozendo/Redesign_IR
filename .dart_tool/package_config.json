@@ -14,10 +14,28 @@
       "languageVersion": "2.4"
     },
     {
+      "name": "characters",
+      "rootUri": "file:///C:/Development/flutter/.pub-cache/hosted/pub.dartlang.org/characters-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
       "name": "charcode",
       "rootUri": "file:///C:/Development/flutter/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.3",
       "packageUri": "lib/",
       "languageVersion": "2.0"
+    },
+    {
+      "name": "charts_common",
+      "rootUri": "file:///C:/Development/flutter/.pub-cache/hosted/pub.dartlang.org/charts_common-0.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "charts_flutter",
+      "rootUri": "file:///C:/Development/flutter/.pub-cache/hosted/pub.dartlang.org/charts_flutter-0.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "1.23"
     },
     {
       "name": "clock",
@@ -27,9 +45,9 @@
     },
     {
       "name": "collection",
-      "rootUri": "file:///C:/Development/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.12",
+      "rootUri": "file:///C:/Development/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.13",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.3"
     },
     {
       "name": "cupertino_icons",
@@ -47,7 +65,7 @@
       "name": "flutter",
       "rootUri": "file:///C:/Development/flutter/packages/flutter",
       "packageUri": "lib/",
-      "languageVersion": "2.2"
+      "languageVersion": "2.9"
     },
     {
       "name": "flutter_test",
@@ -56,10 +74,22 @@
       "languageVersion": "2.2"
     },
     {
-      "name": "matcher",
-      "rootUri": "file:///C:/Development/flutter/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.6",
+      "name": "intl",
+      "rootUri": "file:///C:/Development/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.16.1",
       "packageUri": "lib/",
-      "languageVersion": "2.2"
+      "languageVersion": "2.5"
+    },
+    {
+      "name": "logging",
+      "rootUri": "file:///C:/Development/flutter/.pub-cache/hosted/pub.dartlang.org/logging-0.11.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "matcher",
+      "rootUri": "file:///C:/Development/flutter/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
     },
     {
       "name": "meta",
@@ -72,6 +102,12 @@
       "rootUri": "file:///C:/Development/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.7.0",
       "packageUri": "lib/",
       "languageVersion": "2.0"
+    },
+    {
+      "name": "percent_indicator",
+      "rootUri": "file:///C:/Development/flutter/.pub-cache/hosted/pub.dartlang.org/percent_indicator-2.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "1.19"
     },
     {
       "name": "sky_engine",
@@ -111,15 +147,15 @@
     },
     {
       "name": "test_api",
-      "rootUri": "file:///C:/Development/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.2.16",
+      "rootUri": "file:///C:/Development/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.2.17",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     },
     {
       "name": "typed_data",
-      "rootUri": "file:///C:/Development/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6",
+      "rootUri": "file:///C:/Development/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.2.0",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.4"
     },
     {
       "name": "vector_math",
@@ -134,7 +170,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2020-07-04T01:05:02.039191Z",
+  "generated": "2020-07-06T15:21:05.739627Z",
   "generator": "pub",
-  "generatorVersion": "2.9.0-14.1.beta"
+  "generatorVersion": "2.9.0-20.0.dev.flutter-8afe9875a6"
 }
